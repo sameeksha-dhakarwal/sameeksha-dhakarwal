@@ -21,12 +21,12 @@ Beyond coding, I enjoy exploring new ideas, improving my problem-solving abiliti
 
 ## 💻 Tech Stack
 
-### 🧠 Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-red?logo=java)
 ![C](https://img.shields.io/badge/C-blue?logo=c)
 
-### 🗄️ Databases
+### Databases
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
@@ -46,7 +46,7 @@ Beyond coding, I enjoy exploring new ideas, improving my problem-solving abiliti
 ![Django](https://img.shields.io/badge/Django-darkgreen?logo=django)
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
 
-### 🤖 AI / ML & Data Science
+### AI / ML & Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?logo=python)
@@ -61,10 +61,11 @@ Beyond coding, I enjoy exploring new ideas, improving my problem-solving abiliti
 ![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-yellow?logo=huggingface)
 ![FAISS](https://img.shields.io/badge/FAISS-blue)
 
-### 🛠️ Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi)
+![Figma](https://img.shields.io/badge/Figma-purple?logo=figma)
 
 ---
 
