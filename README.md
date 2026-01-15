@@ -14,8 +14,17 @@ Beyond coding, I enjoy exploring new ideas, improving my problem-solving abiliti
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/sameeksha-dhakarwal-15ba13321/))
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/sameeksha-dhakarwal)
+<a href="https://www.linkedin.com/in/sameeksha-dhakarwal-15ba13321/" target="_blank">
+  <img alt="LinkedIn" src="https://www.linkedin.com/in/sameeksha-dhakarwal-15ba13321/" width="32" height="32" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/sameeksha-dhakarwal" target="_blank">
+  <img alt="GitHub" src="https://github.com/sameeksha-dhakarwal" width="32" height="32" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL_HERE">
+  <img alt="Email" src="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" width="32" height="32" />
+</a>
 
 ---
 
@@ -71,6 +80,4 @@ Beyond coding, I enjoy exploring new ideas, improving my problem-solving abiliti
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sameeksha-dhakarwal&theme=dark)
-
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=sameeksha-dhakarwal&theme=dark&hide_border=true)
