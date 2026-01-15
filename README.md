@@ -71,5 +71,6 @@ Beyond coding, I enjoy exploring new ideas, improving my problem-solving abiliti
 
 ## 📊 GitHub Stats
 
-![Sameeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameeksha-dhakarwal&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sameeksha-dhakarwal&theme=dark)
+
 
