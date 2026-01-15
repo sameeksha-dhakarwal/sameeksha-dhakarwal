@@ -11,13 +11,11 @@ I am committed to **continuous growth and skill enhancement**, always eager to e
 Beyond coding, I enjoy exploring new ideas, improving my problem-solving abilities, and challenging myself to think creatively. I believe every project is an opportunity to learn, grow, and make a meaningful contribution.
 
 ---
-
-## 🌐 Socials
-
 ## 🌐 Socials
 
 <a href="https://www.linkedin.com/in/sameeksha-dhakarwal-15ba13321/" target="_blank">
-  <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" />
+  <img alt="LinkedIn" width="32" height="32"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sameeksha-dhakarwal" target="_blank">
